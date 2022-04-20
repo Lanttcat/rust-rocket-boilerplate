@@ -1,0 +1,4 @@
+db_url = "postgres://your_database_user:your_database_password@localhost/your_database_name"
+mail_gun_sender_address =  "your_main_gun_sender_address"
+mail_gun_api_key = "your_main_gun_api_key"
+mail_gun_domain = 'your_main_gun_domain'
