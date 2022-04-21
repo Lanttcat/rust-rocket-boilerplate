@@ -16,3 +16,8 @@ cargo run
 - :screwdriver: Rich test cases.
 - :card_index_dividers: Folder structure.
 
+## License
+Licensed under either of these:
+- MIT license (LICENSE-MIT or https://opensource.org/licenses/MIT)
+
+
